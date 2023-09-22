@@ -14,7 +14,7 @@
 
 <h2>Getting Started:</h2>
 
-To get started with Gymate, simply visit the live demo here or follow the steps below to set up Gymate locally:
+To get started with Gymate, follow the steps below to set up Gymate locally:
 
 <h2>Clone the Repository:</h2> Use the following command to clone this repository to your local machine:
 git clone https://github.com/tonystark5683/Gym-mate.git
