@@ -1,79 +1,34 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/105128267/213878516-5072da91-0d7a-4dd8-95a8-0b405691dcc5.svg'/></div>
+
 
 <h2>About the project</h2>
 
-  <p><b>Gymate</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
+  <p><b>Gymate</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.
+     Welcome to Gymate, your fitness companion for a healthier and more active lifestyle! Gymate is a web application that provides a dedicated space for individuals to enhance their physical fitness and overall well-being through regular exercise and physical activities. Whether you're a fitness enthusiast or just starting your fitness journey, Gymate is designed to help you achieve your health and fitness goals.</p>
 
-👉 Live Demo: <a href='https://gymate-stefvndev.vercel.app/'>Gymate Demo</a>
 
 <h3>Build with:</h3>
 
 » Tailwind CSS <br>
 » React JS
+» Firebass
 
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
+<h2>Getting Started:</h2>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213878710-5662b56b-fc14-43cc-b038-70c21abb2e5f.png'/>
+To get started with Gymate, simply visit the live demo here or follow the steps below to set up Gymate locally:
 
-</div>
+<h2>Clone the Repository:</h2> Use the following command to clone this repository to your local machine:
+git clone https://github.com/tonystark5683/Gym-mate.git
 
-<br><br>
-<h3 align='center'>Classes Page 👇</h3>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213878977-d98a7725-d615-48ed-b91d-5ebf7a6b049c.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Blog Page 👇</h3>
+<h2>Install Dependencies:</h2>h2> Navigate to the project directory and install the necessary dependencies:
+cd gymate
+npm install
+Run Locally: Start the development server locally:
+npm start
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879015-82a90c2a-98a7-4add-8f72-d29b9388a27f.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Schedule Page 👇</h3>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879131-4bf389d9-57cc-4b5d-9d50-ea62b35862d9.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Contact Page 👇</h3>
+Explore and Contribute: Feel free to explore the codebase and make contributions to enhance Gymate. We welcome contributions from the community!
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879186-756e8df8-ca2f-4330-b238-0849c9e6ca33.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Gallery Page 👇</h3>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879218-7c49d152-b229-4b9a-8f89-5f3ab7fa8e67.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Pricing Page 👇</h3>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879240-a164e827-f8ac-4248-a294-a620f9c530d7.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Login Page 👇</h3>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879261-c4f4596c-0836-49b1-baa3-9abad0501486.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>About Page 👇</h3>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213912643-6deef1ff-505d-4d21-8a96-88be2fee242a.png'/>
-</div>
-<br>
-<br>
